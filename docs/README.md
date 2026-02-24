@@ -19,7 +19,13 @@ OctoAcme’s processes guide project delivery from initiation through release an
 - **Product Manager (PdM):** Owns vision, outcomes, and prioritization.
 - **Developers:** Implement features/fixes, maintain tests, and collaborate on design.
 - **QA:** Validate features against standards for acceptance.
+- **UX Designer:** Leads user research and interaction design to ensure usable, accessible experiences.
+- **DevOps Engineer:** Builds and maintains CI/CD pipelines, infrastructure, and deployment tooling.
+- **Business Analyst:** Bridges business needs and technical solutions through requirements documentation and process analysis.
+- **Support Lead:** Manages customer escalations, communicates known issues, and surfaces customer feedback to the team.
 - **Stakeholders:** Provide input, review, and approvals.
+
+For full role definitions and interaction patterns, see [Roles & Personas](octoacme-roles-and-personas.md).
 
 ## Communication Strategies
 
@@ -41,4 +47,13 @@ OctoAcme’s processes guide project delivery from initiation through release an
 
 ---
 
-For full process documentation, refer to the individual markdown files in the `docs/` folder.
+## All Process Docs
+
+- [Project Management Overview](octoacme-project-management-overview.md)
+- [Project Initiation Guide](octoacme-project-initiation.md)
+- [Project Planning](octoacme-project-planning.md)
+- [Execution & Tracking Guide](octoacme-execution-and-tracking.md)
+- [Risk Management & Communication](octoacme-risks-and-communication.md)
+- [Release & Deployment Guide](octoacme-release-and-deployment.md)
+- [Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md)
+- [Roles & Personas](octoacme-roles-and-personas.md)

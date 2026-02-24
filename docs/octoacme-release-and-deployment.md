@@ -22,6 +22,9 @@ Standardize how OctoAcme releases features to production to reduce risk and impr
 - [ ] Deploy to production (automated pipeline preferred)
 - [ ] Run post-deploy verifications
 - [ ] Announce release to stakeholders and support
+- [ ] Release notes published and linked in the project board
+- [ ] Support Lead briefed on known issues and workarounds
+- [ ] Rollback plan confirmed and on-call team notified
 
 ## Rollback & Incident Playbook
 - If a deployment fails or causes a critical issue:

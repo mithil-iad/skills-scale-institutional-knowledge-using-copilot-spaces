@@ -41,3 +41,6 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - [ ] Release timeline and milestones agreed
 - [ ] Definition of Done documented
 - [ ] Initial test plan / QA approach drafted
+- [ ] Risk register created with identified risks, owners, and mitigations
+- [ ] Dependencies mapped and communicated to relevant teams
+- [ ] UX design assets and acceptance criteria available for planned sprint items
