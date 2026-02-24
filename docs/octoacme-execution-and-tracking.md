@@ -38,3 +38,6 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - [ ] CI configured for tests and lint
 - [ ] Regular demos scheduled
 - [ ] Risk register updated weekly
+- [ ] Blockers escalated appropriately and tracked to resolution
+- [ ] Stakeholder status updates sent on schedule
+- [ ] QA sign-off obtained before marking items Done

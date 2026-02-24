@@ -35,6 +35,9 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - [ ] Decision: Approve to move into planning?
 - [ ] Create repo or project board skeleton
 - [ ] Add initial artifacts to repo (docs/ or .copilot/)
+- [ ] Roles assigned: Project Manager, Product Manager, and key contributors identified
+- [ ] Initial risk list documented
+- [ ] Communication plan drafted and shared with stakeholders
 
 ## Decision Gate
 Move to planning when:
